@@ -550,7 +550,8 @@ Navbar
   }
   .nav-icon {
     margin-right: 0.7rem;
-    color: var(--clr-primary-5);
+    /* color: var(--clr-primary-5); */
+    color: pink;
     font-size: 1.2rem;
     transition: var(--transition);
   }
